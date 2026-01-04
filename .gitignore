@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.egg
+
+# Environments
+.env
+.venv
+venv/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints/
+.notebooks/
+
+# Data and outputs
+*.csv
+*.xlsx
+*.xls
+*.joblib
+
+# OS artifacts
+.DS_Store
+Thumbs.db
